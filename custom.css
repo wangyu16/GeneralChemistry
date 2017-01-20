@@ -10,12 +10,13 @@ table {
 	font-family: Lora, Georgia, serif;
 }
 h2, h3, h4, h5, h6 {
-	font-family: Raleway,"Open Sans", sans-serif;
+	font-family: Raleway, sans-serif;
 }
 h1 {
 	font-family: "Open Sans", sans-serif;
 }
 div.info {
+	font-family: "Open Sans", sans-serif;	
 	float: right; 
 	background-color: #d8c388; 
 	color: #544315;
