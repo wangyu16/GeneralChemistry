@@ -18,9 +18,11 @@ h1 {
 div #notebook {
 	background-color: #eeeeee;
 	color: #080808;
-	width: 1200px;	
+	width: 1110px;	
 	margin: auto;
 	padding-left: 0em;
+	border: 3px solid #cbd3e5; 
+	box-shadow: 0px 0px 7px 1px #cccccc;
 }
 div.info {
 	font-family: "Open Sans", sans-serif;
@@ -42,7 +44,7 @@ div.info {
 	background-color: #ffffff;
 	font-size: 1.3em; 
 	line-height: 150%;
-	width: 1000px;
+	width: 1100px;
 	margin: auto;
 	padding-right: 100px;
 }
