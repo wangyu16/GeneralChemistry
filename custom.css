@@ -1,0 +1,24 @@
+li {
+	font-family: Lora, Georgia, serif;
+}
+p {
+	font-family: Lora, Georgia, serif;
+}
+table {
+	font-family: Lora, Georgia, serif;
+}
+h2, h3, h4, h5, h6 {
+	font-family: Raleway,"Open Sans", sans-serif;
+}
+h1 {
+	font-family: "Open Sans", sans-serif;
+}
+#notebook-container {font-size: 120%; line-height: 130%;}
+.CodeMirror-code {font-size: 120%;line-height: 100%;}
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file in IPython
+*/
