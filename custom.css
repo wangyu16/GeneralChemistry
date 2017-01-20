@@ -16,7 +16,7 @@ h1 {
 	font-family: "Open Sans", sans-serif;
 }
 div.info {
-	font-family: "Open Sans", sans-serif;	
+	font-family: "Open Sans", sans-serif;
 	float: right; 
 	background-color: #d8c388; 
 	color: #544315;
@@ -31,8 +31,8 @@ div.info {
 	box-shadow: 7px 7px 5px #cccccc; 
 	overflow: hidden;
 }
-#notebook-container {font-size: 120%; line-height: 140%;}
-.CodeMirror-code {font-size: 120%;line-height: 100%;}
+#notebook-container {font-size: 1.3em; line-height: 150%;}
+.CodeMirror-code {font-size: 1.2em;line-height: 100%;}
 </style>
 /*
 Placeholder for custom user CSS
