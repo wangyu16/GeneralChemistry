@@ -15,6 +15,13 @@ h2, h3, h4, h5, h6 {
 h1 {
 	font-family: "Open Sans", sans-serif;
 }
+div #notebook {
+	background-color: #eeeeee;
+	color: #080808;
+	width: 1200px;	
+	margin: auto;
+	padding-left: 0em;
+}
 div.info {
 	font-family: "Open Sans", sans-serif;
 	float: right; 
@@ -31,8 +38,18 @@ div.info {
 	box-shadow: 7px 7px 5px #cccccc; 
 	overflow: hidden;
 }
-#notebook-container {font-size: 1.3em; line-height: 150%;}
-.CodeMirror-code {font-size: 1.2em;line-height: 100%;}
+#notebook-container {
+	background-color: #ffffff;
+	font-size: 1.3em; 
+	line-height: 150%;
+	width: 1000px;
+	margin: auto;
+	padding-right: 100px;
+}
+.CodeMirror-code {
+	font-size: 1.2em;
+	line-height: 100%;
+}
 </style>
 /*
 Placeholder for custom user CSS
