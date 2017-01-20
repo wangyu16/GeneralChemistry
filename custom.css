@@ -15,6 +15,21 @@ h2, h3, h4, h5, h6 {
 h1 {
 	font-family: "Open Sans", sans-serif;
 }
+div.info {
+	float: right; 
+	background-color: #d8c388; 
+	color: #544315;
+	width: 25em; 
+	padding: 1.7em; 
+	border: 1px solid #cbd3e5; 
+	border-radius: 10px; 
+	margin-bottom: 14px; 
+	margin-top: 14px; 
+	margin-left: 14px; 
+	margin-right: 14px; 
+	box-shadow: 7px 7px 5px #cccccc; 
+	overflow: hidden;
+}
 #notebook-container {font-size: 120%; line-height: 130%;}
 .CodeMirror-code {font-size: 120%;line-height: 100%;}
 </style>
