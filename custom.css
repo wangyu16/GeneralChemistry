@@ -1,21 +1,37 @@
 <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Open+Sans:400,400i,700,700i|Raleway:400,400i,700,700i" rel="stylesheet" type='text/css'>
-<style>
-li {
-	font-family: Lora, Georgia, serif;
+<style  type="text/css">
+div.text_cell_render {
+	font-family: Lora, serif;
+	color: #222222;
 }
-p {
-	font-family: Lora, Georgia, serif;
+.text_cell_render p {
+	padding-left: 1.5em;
+	text-align: justify;
 }
-table {
-	font-family: Lora, Georgia, serif;
-}
-h2, h3, h4, h5, h6 {
+.text_cell_render h3, h4, h5, h6 {
 	font-family: Raleway, sans-serif;
+	color: #005c99;
 }
-h1 {
+.text_cell_render h1 {
 	font-family: "Open Sans", sans-serif;
+	font-weight: 700;
+	margin: auto;
+	display: block;
+}
+.text_cell_render h2 {
+	font-family: Raleway, sans-serif;
+	font-weight: 700; 
+	margin-top: 50px;
+	display:inline-block;
+	padding: 10px 15px;
+	background-color: #007acc;
+	color: #f8f8f8;
+	border-radius: 10px 40px 10px 40px;
+	letter-spacing: 3px;
+	font-variant: small-caps;
 }
 div #notebook {
+	background-color: #f8f8f8;
 	width: 1110px;	
 	margin: auto;
 	padding-left: 0em;
@@ -25,11 +41,11 @@ div #notebook {
 div.info {
 	font-family: "Open Sans", sans-serif;
 	float: right; 
-	background-color: #d8c388; 
-	color: #544315;
-	width: 25em; 
-	padding: 1.7em; 
-	border: 1px solid #cbd3e5; 
+	background-color: #BBDEFB; 
+	color: #005c99;
+	width: 20em; 
+	padding: 1.4em; 
+	border: 1px solid #42A5F5; 
 	border-radius: 10px; 
 	margin-bottom: 14px; 
 	margin-top: 14px; 
@@ -38,23 +54,43 @@ div.info {
 	box-shadow: 7px 7px 5px #cccccc; 
 	overflow: hidden;
 }
-#notebook-container {
-	background-color: #ffffff;
+div #notebook-container {
+	background-color: #f8f8f8;
 	font-size: 1.3em; 
 	line-height: 150%;
 	width: 1100px;
 	margin: auto;
-	padding-right: 100px;
+	padding-right: 150px;
 }
 .CodeMirror-code {
-	font-size: 1.2em;
-	line-height: 100%;
+	font-size: 1.15em;
+	line-height: 125%;
+	opacity: 0.9;
+}
+
+.text_cell_render td {
+    border-style: hidden;
+}
+.text_cell_render table {
+    border-style: hidden;
+	border-collapse: collapse;
+	width: 100%;
+    font-size: 90%;
+}
+
+.text_cell_render th, td {
+	padding: 8px;
+}
+
+.text_cell_render tr:nth-child(even){background-color: #e8e8e8}
+
+.text_cell_render th {
+    border-style: hidden;
+	background-color: #007acc;
+	color: #f8f8f8;
+}
+table td, table th, table tr {
+    text-align:left !important;
 }
 </style>
-/*
-Placeholder for custom user CSS
 
-mainly to be overridden in profile/static/custom/custom.css
-
-This will always be an empty file in IPython
-*/
