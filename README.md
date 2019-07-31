@@ -4,7 +4,7 @@ Study guide for general chemistry.
 1. [Introduction](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2001.%20Introduction.ipynb){:target="_blank" rel="noopener"}
 1. [Atoms, Molecules and Ions]()
 1. [Stoichiometry]()
-1. [Reations in Aqueous Solutions]()
+1. [Reactions in Aqueous Solutions]()
 1. [Gases]()
 1. [Energy Relationships in Chemical Reactions]()
 1. [The Electronic Structure of Atoms]()
