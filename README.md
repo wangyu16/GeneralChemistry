@@ -2,7 +2,7 @@
 Study guide for general chemistry. 
 
 Potential textbooks:
-* [Chemistry 23, an OpenStax resource.](https://cnx.org/contents/f8zJz5tx@7.6:DY-noYmh@7/Introduction)
+* [Chemistry 23, an OpenStax resource.](https://openstax.org/details/books/chemistry-2e)
 * General Chemistry, The Essential Concepts, 7th ed., by Chang and Goldsby. 
 * Chemistry, The Central Science, 14th ed., by Brown, LeMay, et. al. 
 
