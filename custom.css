@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Open+Sans:400,400i,700,700i|Raleway:400,400i,700,700i" rel="stylesheet" type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Raleway:400,400i,700,700i" rel="stylesheet" type='text/css'>
 <style  type="text/css">
 div.text_cell_render {
 	font-family: Lora, serif;
@@ -38,19 +38,14 @@ div #notebook {
 	border: 3px solid #cbd3e5; 
 	box-shadow: 0px 0px 7px 1px #cccccc;
 }
-div.info {
-	font-family: "Open Sans", sans-serif;
-	float: right; 
-	background-color: #BBDEFB; 
-	color: #005c99;
-	width: 20em; 
+div.example {
+    margin: auto;
+    width: 90%; 
 	padding: 1.4em; 
-	border: 1px solid #42A5F5; 
+	border: 3px solid #195ea8; 
 	border-radius: 10px; 
 	margin-bottom: 14px; 
-	margin-top: 14px; 
-	margin-left: 14px; 
-	margin-right: 14px; 
+	margin-top: 14px;  
 	box-shadow: 7px 7px 5px #cccccc; 
 	overflow: hidden;
 }
