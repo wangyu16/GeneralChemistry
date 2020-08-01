@@ -3,7 +3,7 @@ Study guide for general chemistry.
 [https://wangyu16.github.io/GeneralChemistry/](https://wangyu16.github.io/GeneralChemistry/)
 
 Potential textbooks:
-* [Chemistry 23, an OpenStax resource.](https://openstax.org/details/books/chemistry-2e)
+* [Chemistry 2e, an OpenStax resource.](https://openstax.org/details/books/chemistry-2e)
 * General Chemistry, The Essential Concepts, 7th ed., by Chang and Goldsby. 
 * Chemistry, The Central Science, 14th ed., by Brown, LeMay, et. al. 
 
