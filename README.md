@@ -8,8 +8,8 @@ Potential textbooks:
 * Chemistry, The Central Science, 14th ed., by Brown, LeMay, et. al. 
 
 Supplimental open source textbooks:
-* [Introductory Chemistry.](https://open.umn.edu/opentextbooks/textbooks/introductory-chemistry) This textbook is more fundamental. It does not cover chemical kinetics, thermaldynamics, etc. However, this textbook explains some fundamental concepts in more details. For example, the first two chapters cover a lot pre-colledge knowledge. If you forgot some of the topics, this textbook can help to remind yourself. 
-* [Chemistry.](https://louis.oercommons.org/courses/chemistry-6/view) This is a comprehensive general chemistry textbook. One interesting feature is that the textbook contains some videos. These videos can be very helpful on tough theories, equations, concepts. 
+* [Introductory Chemistry, David W. Ball of Cleveland State University.](https://open.umn.edu/opentextbooks/textbooks/introductory-chemistry) This textbook is more fundamental. It does not cover chemical kinetics, thermaldynamics, etc. However, this textbook explains some fundamental concepts in more details. For example, the first two chapters cover a lot pre-colledge knowledge. If you forgot some of the topics, this textbook can help to remind yourself. 
+* [Chemistry, OpenStax College resource.](https://louis.oercommons.org/courses/chemistry-6/view) This is a comprehensive general chemistry textbook. One interesting feature is that the textbook contains some short videos. These videos can be very helpful on tough theories, equations, concepts. 
 
 Additional resources could be found here: [https://chem.libretexts.org/Bookshelves/General_Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry). 
 
