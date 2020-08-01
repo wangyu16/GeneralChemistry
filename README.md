@@ -7,7 +7,13 @@ Potential textbooks:
 * General Chemistry, The Essential Concepts, 7th ed., by Chang and Goldsby. 
 * Chemistry, The Central Science, 14th ed., by Brown, LeMay, et. al. 
 
-Additional resources could be found here: [https://chem.libretexts.org/Bookshelves/General_Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry). The outline follows Chang's textbook. Chapter 11 Introduction to Organic Chemistry, Chapter 20 The Chemistry of Coordination Compounds and Chapter 22 Organic Polymers - Synthetic and Natural are not covered. The locations of each topic in OpenStax and Brown's textbooks are given under the titles. The materials, mainly the figures and the questions, are adapted from wikipedia, OpenStax, and other open source resources. 
+Supplimental open source textbooks:
+* [Introductory Chemistry.](https://open.umn.edu/opentextbooks/textbooks/introductory-chemistry) This textbook is more fundamental. It does not cover chemical kinetics, thermaldynamics, etc. However, this textbook explains some fundamental concepts in more details. For example, the first two chapters cover a lot pre-colledge knowledge. If you forgot some of the topics, this textbook can help to remind yourself. 
+* [Chemistry.](https://louis.oercommons.org/courses/chemistry-6/view) This is a comprehensive general chemistry textbook. One interesting feature is that the textbook contains some videos. These videos can be very helpful on tough theories, equations, concepts. 
+
+Additional resources could be found here: [https://chem.libretexts.org/Bookshelves/General_Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry). 
+
+The outline of this study guide follows Chang's textbook. Chapter 11 Introduction to Organic Chemistry, Chapter 20 The Chemistry of Coordination Compounds and Chapter 22 Organic Polymers - Synthetic and Natural are not covered. The locations of each topic in OpenStax and Brown's textbooks are given under the titles. The materials, mainly the figures and the questions, are adapted from wikipedia, OpenStax, and other open source resources. 
 
 1. [Introduction](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2001.%20Introduction.ipynb){:target="_blank" rel="noopener"}
 1. [Atoms, Molecules and Ions](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2002.%20Atoms%2C%20Molecules%20and%20Ions.ipynb){:target="_blank" rel="noopener"}
