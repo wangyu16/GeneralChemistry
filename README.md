@@ -1,5 +1,3 @@
-# Study guide for general chemistry
-
 ### Resources
 
 **Potential textbooks**
@@ -42,12 +40,13 @@ The outline of this study guide follows Chang's textbook. Chapter 11 Introductio
 1. [Redox Reactions and Electrochemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2019.%20Redox%20Reactions%20and%20Electrochemistry.ipynb){:target="_blank" rel="noopener"}
 1. [Nuclear Chemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2021.%20Nuclear%20Chemistry.ipynb){:target="_blank" rel="noopener"}
 
+### Note
+
+Starting from Fall 2020 semester, I am adding short videos to the study guide. First I will add the best ones I can find from Youtube. Later I will replace those videos with new ones recorded by myself or my students to make the study guide more consistent and concise. 
+
 ### Feedback
 
 Any suggestions or comments are gratefully appreciated
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1scugRm9ZOpxc7kdhOGdf1tjaGb_XDBJu51fcJRmb3Ggbeg/viewform?embedded=true" width="640" height="1080" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-### Note
-
-Starting from Fall 2020 semester, I am adding short videos to the study guide. First I will add the best ones I can find from Youtube. Later I will replace those videos with new ones recorded by myself or my students to make the study guide more consistent and concise. 
