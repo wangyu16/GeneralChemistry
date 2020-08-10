@@ -1,17 +1,24 @@
-# General Chemistry
-Study guide for general chemistry. 
-[https://wangyu16.github.io/GeneralChemistry/](https://wangyu16.github.io/GeneralChemistry/)
+# Study guide for general chemistry
 
-Potential textbooks:
+### Resources
+
+**Potential textbooks**
+
 * [Chemistry 2e, an OpenStax resource.](https://openstax.org/details/books/chemistry-2e)
 * General Chemistry, The Essential Concepts, 7th ed., by Chang and Goldsby. 
 * Chemistry, The Central Science, 14th ed., by Brown, LeMay, et. al. 
 
-Supplimental open source textbooks:
+**Supplimental open source textbooks**
+
 * [Introductory Chemistry, David W. Ball of Cleveland State University.](https://open.umn.edu/opentextbooks/textbooks/introductory-chemistry) This textbook is more fundamental. It does not cover chemical kinetics, thermaldynamics, etc. However, this textbook explains some fundamental concepts in more details. For example, the first two chapters cover a lot pre-colledge knowledge. If you forgot some of the topics, this textbook can help to remind yourself. 
 * [Chemistry, OpenStax College resource.](https://louis.oercommons.org/courses/chemistry-6/view) This is a comprehensive general chemistry textbook. One interesting feature is that the textbook contains some short videos. These videos can be very helpful on tough theories, equations, concepts. 
 
-Additional resources could be found here: [https://chem.libretexts.org/Bookshelves/General_Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry). 
+**Additional resources could be found here:**
+
+[https://chem.libretexts.org/Bookshelves/General_Chemistry](https://chem.libretexts.org/Bookshelves/General_Chemistry). 
+
+
+### Table of Content
 
 The outline of this study guide follows Chang's textbook. Chapter 11 Introduction to Organic Chemistry, Chapter 20 The Chemistry of Coordination Compounds and Chapter 22 Organic Polymers - Synthetic and Natural are not covered. The locations of each topic in OpenStax and Brown's textbooks are given under the titles. The materials, mainly the figures and the questions, are adapted from wikipedia, OpenStax, and other open source resources. 
 
@@ -35,4 +42,12 @@ The outline of this study guide follows Chang's textbook. Chapter 11 Introductio
 1. [Redox Reactions and Electrochemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2019.%20Redox%20Reactions%20and%20Electrochemistry.ipynb){:target="_blank" rel="noopener"}
 1. [Nuclear Chemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2021.%20Nuclear%20Chemistry.ipynb){:target="_blank" rel="noopener"}
 
+### Feedback
+
+Any suggestions or comments are gratefully appreciated
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1scugRm9ZOpxc7kdhOGdf1tjaGb_XDBJu51fcJRmb3Ggbeg/viewform?embedded=true" width="640" height="1080" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+### Note
+
+Starting from Fall 2020 semester, I am adding short videos to the study guide. First I will add the best ones I can find from Youtube. Later I will replace those videos with new ones recorded by myself or my students to make the study guide more consistent and concise. 
