@@ -18,8 +18,6 @@
 
 ### Table of Content
 
-The outline of this study guide follows Chang's textbook. Chapter 11 Introduction to Organic Chemistry, Chapter 20 The Chemistry of Coordination Compounds and Chapter 22 Organic Polymers - Synthetic and Natural are not covered. The locations of each topic in OpenStax and Brown's textbooks are given under the titles. The materials, mainly the figures and the questions, are adapted from wikipedia, OpenStax, and other open source resources. 
-
 1. [Introduction](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2001.%20Introduction.ipynb){:target="_blank" rel="noopener"}
 1. [Atoms, Molecules and Ions](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2002.%20Atoms%2C%20Molecules%20and%20Ions.ipynb){:target="_blank" rel="noopener"}
 1. [Stoichiometry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2003.%20Stoichiometry.ipynb){:target="_blank" rel="noopener"}
@@ -40,9 +38,10 @@ The outline of this study guide follows Chang's textbook. Chapter 11 Introductio
 1. [Redox Reactions and Electrochemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2019.%20Redox%20Reactions%20and%20Electrochemistry.ipynb){:target="_blank" rel="noopener"}
 1. [Nuclear Chemistry](https://nbviewer.jupyter.org/github/wangyu16/GeneralChemistry/blob/master/Chapter%2021.%20Nuclear%20Chemistry.ipynb){:target="_blank" rel="noopener"}
 
-### Note
+### Notes:
 
-Starting from Fall 2020 semester, I am adding short videos to the study guide. First I will add the best ones I can find from Youtube. Later I will replace those videos with new ones recorded by myself or my students to make the study guide more consistent and concise. 
+- The outline of this study guide follows Chang's textbook. Chapter 11 Introduction to Organic Chemistry, Chapter 20 The Chemistry of Coordination Compounds and Chapter 22 Organic Polymers - Synthetic and Natural are not covered. The locations of each topic in OpenStax and Brown's textbooks are given under the titles. The materials, mainly the figures and the questions, are adapted from wikipedia, OpenStax, and other open source resources. 
+- Starting from Fall 2020 semester, I am adding short videos to the study guide. First I will add the best ones I can find from Youtube. Later I will replace those videos with new ones recorded by myself or my students to make the study guide more consistent and concise. 
 
 ### Feedback
 
