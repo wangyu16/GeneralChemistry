@@ -25,14 +25,14 @@
 
 
 # Title and description of your site
-title         : "YuManYu's Blog"
-description   : 'This is our life.'
-slogan        : 'YuManYu'
+title         : "General Chemistry Study Guide"
+description   : 'General Chemistry Study Guide'
+slogan        : 'GeneralChemistry'
 
 
 
 # Build settings
-url           : 'https://wangyu16.github.io/YuManYu'
+url           : 'https://wangyu16.github.io/GeneralChemistry'
 baseurl       : ''
 markdown      : kramdown
 highlighter   : rouge
@@ -122,7 +122,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: false  # Hide metadata for all pages
       comments: false
-      author: 'YuManYu'     # Default author for pages
+      author: 'Yu Wang'     # Default author for pages
   -
     scope:
       path: ''
@@ -131,7 +131,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: true   # Show metadata for all posts
       comments: false
-      author: 'YuManYu'     # Default author for posts
+      author: 'Yu Wang'     # Default author for posts
 
 
 
@@ -141,7 +141,7 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_site_verification   : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+#google_site_verification   : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 # bing_webmastertools_id   : ''
 # alexa_verify_id          : ''
 
@@ -201,7 +201,7 @@ sass:
 #
 # used in _includes/_4_footer_scripts
 
-# google_analytics_tracking_id:
+ google_analytics_tracking_id: G-MXPLK29V6Y
 
 
 
@@ -219,7 +219,7 @@ sass:
 socialmedia:
     #youtube: PhlowMedia
     github: wangyu16
-    twitter: fishdream82
+    twitter: YuWang95913822
     # facebook: phlow.media
     # soundcloud: phlow
     # tumblr: motizen
