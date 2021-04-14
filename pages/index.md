@@ -1,6 +1,6 @@
 ---
-title:              'YuManYu's Blog'
-meta_description:   'This is our story.'
+title:              'General Chemistry Study Guide'
+meta_description:   'General Chemistry Study Guide'
 layout:             frontpage
 permalink: /
 ---
