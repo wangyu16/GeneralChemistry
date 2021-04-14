@@ -1,0 +1,125 @@
+#     __
+#    / /   ____ _____  ____ ___  ______ _____ ____
+#   / /   / __ `/ __ \/ __ `/ / / / __ `/ __ `/ _ \
+#  / /___/ /_/ / / / / /_/ / /_/ / /_/ / /_/ /  __/
+# /_____/\__,_/_/ /_/\__, /\__,_/\__,_/\__, /\___/
+#                   /____/            /____/
+#
+#   This is the language file of *Simplicity*
+#   Add your translation and set the language in
+#   config.yml
+#
+#   Example for config.yml › lang: 'de'
+#
+#   To translate *Simplicity* just edit the following data.
+#   The theme uses for example it like this:
+#
+#   {{ site.data.ui[site.lang].read_more | default: "Read More&nbsp;›" }}
+
+
+# English (default)
+# -----------------
+# More on Accesskeys › http://www.cs.tut.fi/~jkorpela/forms/accesskey.html
+en: &DEFAULT_EN
+  navigation_search             : 'Press Accesskey [4] for Search'
+  navigation_menu               : 'Press Accesskey [6] for Navigation Menu'
+  navigation_home               : 'Press Accesskey [1] for Homepage'
+  read_more                     : 'Read more ›'
+  show_all_articles             : 'Show All Articles ›'
+  visit_frontpage               : 'Visit the frontpage'
+  comments_headline             : 'Comments'
+  enable_disqus                 : 'Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>'
+  written_by                    : 'Written by'
+  more_articles                 : 'More Articles'
+  follow_me_on                  : 'Follow me at'
+  subscribe_to_my_rss_feed      : 'Subscribe to my RSS Feed'
+  source                        : 'Source'
+  check_out_link                : 'Check out the link ›'
+  enter_search_term             : 'Enter search term and hit enter'
+  search_results                : 'Search Results'
+  search                        : 'Search ›'
+  search_input_placeholder      : 'Search [Hit Tab and start writing]'
+  try_404                       : 'Try…  '
+  no_problem_404                : 'No Problem!'
+  start_over_404                : '...to start over on the'
+  search_below_404              : '...to **search** below  '
+  search_404                    : 'Search'
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+
+
+# German / Deutsch
+# -----------------
+de: &DEFAULT_DE
+  navigation_search             : 'Drück den Accesskey [4] für Suche'
+  navigation_menu               : 'Drück den Accesskey [6] für das Navigation Menü'
+  navigation_home               : 'Drück den Accesskey [1] für die Startseite'
+  read_more                     : 'Weiterlesen&nbsp;›'
+  show_all_articles             : 'Zeige alle Beiträge&nbsp;›'
+  visit_frontpage               : 'Besuch die Startseite'
+  comments_headline             : 'Kommentare'
+  enable_disqus                 : 'Bitte schalte Javascript ein, um die Kommentare zu lesen. <a href="http://disqus.com/?ref_noscript">Kommentarfunktion von Disqus.</a>'
+  search                        : 'Suche'
+  search_input_placeholder      : 'Suchen [Drücke Tab und schreib los]'
+  written_by                    : 'Geschrieben von'
+  more_articles                 : 'Mehr Artikel'
+  follow_me_on                  : 'Folge mir auf'
+  subscribe_to_my_rss_feed      : 'Abonnier meinen RSS Feed'
+  source                        : 'Source'
+  check_out_link                : 'Schau Dir den Link an ›'
+
+de-DE:
+  <<: *DEFAULT_DE
+de-AT:
+  <<: *DEFAULT_DE
+de-CH:
+  <<: *DEFAULT_DE
+de-BE:
+  <<: *DEFAULT_DE
+de-LI:
+  <<: *DEFAULT_DE
+de-LU:
+  <<: *DEFAULT_DE
+
+# Portuguese
+# -----------------
+pt: &DEFAULT_PT
+  navigation_search             : 'Pressione [4] para usar a busca'
+  navigation_menu               : 'Pressione [6] para acessar o Menu de Navegação'
+  navigation_home               : 'Pressione [1] para acessar a Home'
+  read_more                     : 'Leia mais ›'
+  show_all_articles             : 'Mostrar todos os artigos ›'
+  visit_frontpage               : 'Visite a frontpage'
+  comments_headline             : 'Comentários'
+  enable_disqus                 : 'Por favor ative o JavaScript para ver os <a href="http://disqus.com/?ref_noscript">comentários via Disqus.</a>'
+  written_by                    : 'Escrito por'
+  more_articles                 : 'Mais Artigos'
+  follow_me_on                  : 'Siga-me no'
+  subscribe_to_my_rss_feed      : 'Assine o meu RSS Feed'
+  source                        : 'Fonte'
+  check_out_link                : 'Confira o link ›'
+  enter_search_term             : 'Digite um termo de busca e aperte Enter'
+  search_results                : 'Resultados de busca'
+  search                        : 'Busca ›'
+  search_input_placeholder      : 'Buscar [Aperte tab e comece a escrever]'
+  try_404                       : 'Tente…  '
+  no_problem_404                : 'Sem Problema!'
+  start_over_404                : '...to start over on the'
+  search_below_404              : '...to **search** below  '
+  search_404                    : 'Buscar'
+
+pt-BR:
+  <<: *DEFAULT_PT
+pt-PT:
+  <<: *DEFAULT_PT
+
+# Another locale
+# --------------

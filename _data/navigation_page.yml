@@ -1,0 +1,11 @@
+- name: "Home"
+  url: "/"
+
+- name: "All Articles"
+  url: "/archive/"
+
+- name: "Information"
+  url: "/info/"
+
+- name: "About"
+  url: "/about/"

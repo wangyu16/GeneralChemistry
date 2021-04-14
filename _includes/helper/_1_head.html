@@ -1,0 +1,28 @@
+{% include helper/variables.html %}<!doctype html>
+<html lang="{{ site.lang | slice: 0,2 | default: "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ title }}</title>
+
+  <link rel="stylesheet" href="{{ url }}/assets/css/simplicity.css">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ url }}/feed.xml">
+  <link href='https://fonts.googleapis.com/css?family={{ site.font.import }}' rel='stylesheet' type='text/css'>
+  <link type="text/plain" rel="author" href="{{ url }}/humans.txt">
+
+  {% include helper/seo.html %}
+
+  {% include helper/facebook_open_graph.html %}
+
+  {% if site.socialmedia.twitter %}
+    {% include helper/twitter_card.html %}
+  {% endif %}
+
+  {% include helper/_favicon.html %}
+
+  {% unless page.style == NULL %}<style type="text/css">{{ page.style }}</style>{% endunless %}
+
+</head>
+<body id="top-of-page" class="{{ page.format }}">
+

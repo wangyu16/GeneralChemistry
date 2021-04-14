@@ -1,0 +1,8 @@
+- name: 'About'
+  url: '/about/'
+
+- name: 'Navigation'
+  url: '/navigation/'
+
+
+

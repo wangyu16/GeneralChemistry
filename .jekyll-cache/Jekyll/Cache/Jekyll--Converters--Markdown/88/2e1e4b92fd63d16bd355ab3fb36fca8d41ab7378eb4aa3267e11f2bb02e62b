@@ -1,0 +1,14 @@
+I"O<h2 id="no-problem">No Problem!</h2>
+
+<p>Try…<br />
+…to start over on the <a href="/">home page</a>.<br />
+…to <strong>search</strong> below   <a href="/">home page</a>.<br />
+…if you can’t find it,   <a href="/contact/">ask about it </a>.</p>
+
+<h3 id="search">Search</h3>
+
+<form id="search-container" action="http://localhost:4000/search/" method="get">
+  <input accesskey="4" tabindex="1" class="search-input" type="search" placeholder="Search [Hit Tab and start writing]" id="search-box" name="query" />
+  <button class="search-button" type="submit">Search ›</button>
+</form>
+:ET
