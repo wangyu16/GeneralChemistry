@@ -22,7 +22,15 @@
   {% include helper/_favicon.html %}
 
   {% unless page.style == NULL %}<style type="text/css">{{ page.style }}</style>{% endunless %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MXPLK29V6Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-MXPLK29V6Y');
+</script>
 </head>
 <body id="top-of-page" class="{{ page.format }}">
 
