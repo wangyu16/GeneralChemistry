@@ -46,7 +46,7 @@ permalink: /
 
 ### Notes:
 
-- The outline of this study guide follows Chang's textbook. Chapter 11 Introduction to Organic Chemistry, Chapter 20 The Chemistry of Coordination Compounds and Chapter 22 Organic Polymers - Synthetic and Natural are not covered. The locations of each topic in OpenStax and Brown's textbooks are given under the titles. The materials, mainly the figures and the questions, are adapted from wikipedia, OpenStax, and other open source resources. 
+- The outline of this study guide follows Chang's textbook. Chapter 11 Introduction to Organic Chemistry, Chapter 20 The Chemistry of Coordination Compounds and Chapter 22 Organic Polymers - Synthetic and Natural are not covered. The locations of each topic in OpenStax and Brown's textbooks are given under the titles. The materials, mainly the figures and the questions, are adapted from wikipedia, OpenStax, and other open resources. 
 
 ### Feedback
 
