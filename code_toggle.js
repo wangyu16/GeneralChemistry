@@ -11,6 +11,5 @@ $(document).ready(function(){
         $('<li><a href="javascript:window.code_toggle()" title="Show/Hide Code"><span class="fa fa-code fa-2x menu-icon"></span><span class="menu-text">Show/Hide Code</span></a></li>').appendTo('.navbar-right');
         window.code_shown=false;
         $('div.input').hide();
-        $('div.prompt.output_prompt').hide();
     }
 });
