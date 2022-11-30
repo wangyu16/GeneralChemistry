@@ -53,7 +53,3 @@
     $('.hidden-print').hide();
   });
 </script>
-
-<footer id="attribution" style="float:right; color:#999; background:#fff;">
-Created with Jupyter, delivered by Fastly, rendered by OVHcloud.
-</footer>
