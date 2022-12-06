@@ -11,5 +11,6 @@ df = pd.DataFrame({
   'second column': [10, 20, 30, 40]
 })
 
+fig = plt.figure()
 plt.plot(df['first column'],df['second column'])
-plt.show()
+st.pyplot(fig)
