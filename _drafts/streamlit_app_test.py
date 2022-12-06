@@ -12,3 +12,4 @@ df = pd.DataFrame({
 })
 
 plt.plot(df['first column'],df['second column'])
+plt.show()
