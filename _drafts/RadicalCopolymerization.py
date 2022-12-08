@@ -7,8 +7,8 @@ plt.style.use('fivethirtyeight')
 import requests
 copyright = requests.get("https://raw.githubusercontent.com/wangyu16/PolymerScienceEducation/master/copyright.md")
 
-r1 = st.number_input('r1',min_value=0)
-r2 = st.number_input('r2',min_value=0)
+r1 = st.number_input('r1',min_value=0.001, value = 1.00)
+r2 = st.number_input('r2',min_value=0.001, value = 1.00)
 f1_0 = st.slider('f1_0',min_value = 0.00, max_value = 1.00, value = 0.50, step = 0.01)
 
 Nt_0=1000000 # Set the total number of monomers. 
