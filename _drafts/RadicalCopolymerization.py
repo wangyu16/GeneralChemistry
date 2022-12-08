@@ -86,8 +86,8 @@ plt.ylabel('F1')
 fig1.tight_layout()
 st.pyplot(fig1)
 
-plt.rcParams["figure.figsize"] = (10,20)
 fig2, axes = plt.subplots()
+plt.rcParams["figure.figsize"] = (10,20)
 k=1
 for chain_sec in chain_secs:  
   j = 1
@@ -111,15 +111,14 @@ plt.ylabel('Overall monomer conversion (%)')
 fig2.tight_layout()
 st.pyplot(fig2)
 
-
+fig3,ax=plt.subplots()
 plt.rcParams["figure.figsize"] = (10,10)
-ax1 = df_info.plot(x='Overall monomer conversion', y = ['Feedstock fraction of 1','Cumulative fraction of 1 in polymers','Fraction of 1 incoporating into polymers'])
+ax = df_info.plot(x='Overall monomer conversion', y = ['Feedstock fraction of 1','Cumulative fraction of 1 in polymers','Fraction of 1 incoporating into polymers'])
 #_ = df_info.plot.scatter(x='Overall monomer conversion', y = ['Fraction of 1 in sample chain section'], marker = 'o', label = 'Fraction of 1 in sample chain section', ax = ax1)
 plt.xlabel('Overall monomer conversion (%)')
 plt.ylabel('Percent (%)')
-plt.tight_layout()
-plt.show()
-st.pyplot()
+fig3.tight_layout()
+st.pyplot(fig3)
 
 st.markdown("### Copyright")
 st.write(copyright.text)
