@@ -75,7 +75,7 @@ for i in range(1,100):
   chain_secs[i-1]=chains[0][sta-50:sta+50]
   df_info.loc[len(df_info.index)] = [sta/Nt_0*100,chains[1][sta]*100,chains[3][sta]*100,chains[2][sta]*100,chains[0][sta-50:sta+50].count(1)] 
 
-fig = plt.figure()
+fig1 = plt.figure()
 plt.rcParams["figure.figsize"] = (7.5,7.5)
 f1 = np.linspace(0,1, 100)
 F1= (r1*f1**2+f1*(1-f1))/(r1*f1**2+2*f1*(1-f1)+r2*(1-f1)**2)
@@ -83,8 +83,9 @@ plt.plot(f1,f1,'k--',linewidth=0.5)
 plt.plot(f1,F1)
 plt.xlabel('f1')
 plt.ylabel('F1')
-st.pyplot(fig)
+st.pyplot(fig1)
 
+fig2=plt.figure()
 plt.rcParams["figure.figsize"] = (10,20)
 figure, axes = plt.subplots()
 k=1
@@ -107,14 +108,15 @@ plt.ylim( -0.025 , 1.025 )
 
 plt.title( 'Sample chain sections' )
 plt.ylabel('Overall monomer conversion (%)')
-st.pyplot(figure)
+st.pyplot(fig2)
 
+fig3=plt.figure()
 plt.rcParams["figure.figsize"] = (10,10)
 ax1 = df_info.plot(x='Overall monomer conversion', y = ['Feedstock fraction of 1','Cumulative fraction of 1 in polymers','Fraction of 1 incoporating into polymers'])
 _ = df_info.plot.scatter(x='Overall monomer conversion', y = ['Fraction of 1 in sample chain section'], marker = 'o', label = 'Fraction of 1 in sample chain section', ax = ax1)
 plt.xlabel('Overall monomer conversion (%)')
 plt.ylabel('Percent (%)')
-st.pyplot(ax1)
+st.pyplot(fig3)
 
 st.markdown("### Copyright")
 st.write(copyright.text)
