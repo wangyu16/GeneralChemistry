@@ -85,5 +85,36 @@ plt.xlabel('f1')
 plt.ylabel('F1')
 st.pyplot(fig)
 
+plt.rcParams["figure.figsize"] = (10,20)
+figure, axes = plt.subplots()
+k=1
+for chain_sec in chain_secs:  
+  j = 1
+  for i in chain_sec:
+    if i ==1:
+      Drawing_colored_circle = plt.Circle(( j/200 , k/100 ), 0.0027, color = 'royalblue' )    
+    else:
+      Drawing_colored_circle = plt.Circle(( j/200 , k/100 ), 0.0027, color = 'lightsteelblue' )
+    axes.add_artist( Drawing_colored_circle )
+    j+=1
+  k+=1
+
+
+axes.set_aspect( 1 )
+axes.get_xaxis().set_visible(False)
+plt.xlim( -0.025 , 0.525 )
+plt.ylim( -0.025 , 1.025 )
+
+plt.title( 'Sample chain sections' )
+plt.ylabel('Overall monomer conversion (%)')
+st.pyplot(figure)
+
+plt.rcParams["figure.figsize"] = (10,10)
+ax1 = df_info.plot(x='Overall monomer conversion', y = ['Feedstock fraction of 1','Cumulative fraction of 1 in polymers','Fraction of 1 incoporating into polymers'])
+_ = df_info.plot.scatter(x='Overall monomer conversion', y = ['Fraction of 1 in sample chain section'], marker = 'o', label = 'Fraction of 1 in sample chain section', ax = ax1)
+plt.xlabel('Overall monomer conversion (%)')
+plt.ylabel('Percent (%)')
+st.pyplot(ax1)
+
 st.markdown("### Copyright")
 st.write(copyright.text)
