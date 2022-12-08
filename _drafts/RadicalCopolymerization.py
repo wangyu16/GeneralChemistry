@@ -113,12 +113,13 @@ st.pyplot(fig2)
 
 
 plt.rcParams["figure.figsize"] = (10,10)
-fig3 = df_info.plot(x='Overall monomer conversion', y = ['Feedstock fraction of 1','Cumulative fraction of 1 in polymers','Fraction of 1 incoporating into polymers'])
+ax1 = df_info.plot(x='Overall monomer conversion', y = ['Feedstock fraction of 1','Cumulative fraction of 1 in polymers','Fraction of 1 incoporating into polymers'])
 #_ = df_info.plot.scatter(x='Overall monomer conversion', y = ['Fraction of 1 in sample chain section'], marker = 'o', label = 'Fraction of 1 in sample chain section', ax = ax1)
 plt.xlabel('Overall monomer conversion (%)')
 plt.ylabel('Percent (%)')
-fig3.tight_layout()
-st.pyplot(fig3)
+plt.tight_layout()
+plt.show()
+st.pyplot()
 
 st.markdown("### Copyright")
 st.write(copyright.text)
